@@ -18,12 +18,6 @@ I want to thank **freeCodeCamp** for inspiring me to pursue web development and 
 - 🎨 **CSS** (with external Google Fonts)
 - 💻 **JavaScript** (if required for future updates)
 
-## How to Use
-
-1. Clone or download the repository to your local machine.
-2. Open the `index.html` file in any modern browser to view the tribute page.
-3. Customize the content by editing the HTML structure, like changing the image, the tribute information, and the subject's name.
-
 ---
 
 ### Acknowledgements
